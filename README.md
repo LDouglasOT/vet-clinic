@@ -1,7 +1,7 @@
-# curriculum-databases-projects-template
+<!-- # VET-CLINIC
 
 > This template should be used for database related projects at Microverse.
-> Generate your own repository, update this README and edit all files content while working on projects. You should not be adding any new files unless asked otherwise.
+> Generate your own repository, update this README and edit all files content while working on projects. You should not be adding any new files unless asked otherwise. -->
 
 
 ## Getting Started
@@ -63,7 +63,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [VET_CLINIC] <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
@@ -75,19 +75,19 @@ After you're finished please remove all the comments and instructions!
 
 > Describe the tech stack and include only the relevant sections that apply to your project.
 
-<details>
+<!-- <details>
   <summary>Client</summary>
   <ul>
     <li><a href="https://reactjs.org/">React.js</a></li>
   </ul>
-</details>
+</details> -->
 
-<details>
+<!-- <details>
   <summary>Server</summary>
   <ul>
     <li><a href="https://expressjs.com/">Express.js</a></li>
   </ul>
-</details>
+</details> -->
 
 <details>
 <summary>Database</summary>
@@ -102,21 +102,21 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[create_animals]**
+- **[insert_new_animal]**
+- **[filter_animals]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
+<!-- ## 🚀 Live Demo <a name="live-demo"></a> -->
 
-> Add a link to your deployed project.
+<!-- > Add a link to your deployed project.
 
 - [Live Demo Link](<replace-with-your-deployment-URL>)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- GETTING STARTED -->
 
@@ -125,7 +125,6 @@ After you're finished please remove all the comments and instructions!
 > Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
-
 ### Prerequisites
 
 In order to run this project you need:
@@ -142,6 +141,7 @@ Example command:
 
 Clone this repository to your desired folder:
 
+> Run "git clone https://github.com/LDouglasOT/vet-clinic.git"
 <!--
 Example commands:
 
@@ -150,10 +150,10 @@ Example commands:
   git clone git@github.com:myaccount/my-project.git
 ```
 --->
-
+<!-- 
 ### Install
 
-Install this project with:
+Install this project with: -->
 
 <!--
 Example command:
@@ -163,10 +163,10 @@ Example command:
   gem install
 ```
 --->
-
+<!-- 
 ### Usage
 
-To run the project, execute the following command:
+To run the project, execute the following command: -->
 
 <!--
 Example command:
@@ -176,9 +176,9 @@ Example command:
 ```
 --->
 
-### Run tests
+<!-- ### Run tests
 
-To run tests, run the following command:
+To run tests, run the following command: -->
 
 <!--
 Example command:
@@ -188,9 +188,9 @@ Example command:
 ```
 --->
 
-### Deployment
+<!-- ### Deployment
 
-You can deploy this project using:
+You can deploy this project using: -->
 
 <!--
 Example:
@@ -200,7 +200,7 @@ Example:
 ```
  -->
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- AUTHORS -->
 
@@ -214,11 +214,6 @@ Example:
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -228,9 +223,8 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[remove_animals]**
+- [ ] **[update_animals]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -250,7 +244,7 @@ Feel free to check the [issues page](../../issues/).
 
 > Write a message to encourage readers to support your project
 
-If you like this project...
+If you like this project kindly star it.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -268,7 +262,7 @@ I would like to thank...
 
 ## ❓ FAQ <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
+<!-- > Add at least 2 questions new developers would ask when they decide to use your project.
 
 - **[Question_1]**
 
@@ -276,9 +270,9 @@ I would like to thank...
 
 - **[Question_2]**
 
-  - [Answer_2]
+  - [Answer_2] -->
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- LICENSE -->
 
