@@ -184,3 +184,4 @@ WHERE animals.name = 'Maisy Smith'
 GROUP BY species.name
 ORDER BY COUNT(*) DESC
 LIMIT 1;
+
